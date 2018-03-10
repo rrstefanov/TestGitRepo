@@ -1,1 +1,1 @@
-Upload simple &quot;test.txt&quot; file with sample content inside.
+Upload simple file with sample content inside.
