@@ -9,4 +9,9 @@ namespace ConsoleApplicationTestRepository
             Console.WriteLine("Hello World!");
         }
     }
+
+    public class RepositoryTest
+    {
+        public string name { get; set; }
+    }
 }
